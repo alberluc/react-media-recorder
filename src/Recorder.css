@@ -1,0 +1,17 @@
+.Recorder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+}
+
+.Recorder-button {
+    display: block;
+}
+
+.Recorder-video {
+    width: 500px;
+    height: 300px;
+    background-color: #eee;
+}
